@@ -1,2 +1,3 @@
-# timedata
-TimeData: Basic time series data structures for Python.
+<div align=center> <image src="./img/logo.png" width="220px"> </div>
+
+TimeData: TimeData: Use time series like DataFrame.
